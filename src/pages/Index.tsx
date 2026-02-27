@@ -98,11 +98,11 @@ const Index = () => {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://www.google.com/maps/place/R.+Geraldo+Rios,+80+-+Centro,+Jo%C3%A3o+Pinheiro+-+MG,+38770-000/@-17.7442961,-46.1769804,17z/data=!3m1!4b1!4m10!1m2!2m1!1sRua+Geraldo+Rios,+80+-+Centro!3m6!1s0x94abe2e2ed3273af:0x9754ab51e5fe5895!8m2!3d-17.7443013!4d-46.1721095!15sCh1SdWEgR2VyYWxkbyBSaW9zLCA4MCAtIENlbnRyb5IBEWNvbXBvdW5kX2J1aWxkaW5n4AEA!16s%2Fg%2F11c4qf7_4q?entry=ttu&g_ep=EgoyMDI2MDEwNC4wIKXMDSoASAFQAw%3D%3D"
+              href="https://www.google.com/maps/place/Av.+Jo%C3%A3o+Valentim+Pascoal,+87+-+106+-+Centro,+Ipatinga+-+MG,+35160-003/data=!4m2!3m1!1s0xb0004282f5d38f:0xc5bb0c6d83e0381f?sa=X&ved=1t:242&ictx=111"
               className="hover:underline"
             >
               <p className="text-sm md:text-base leading-snug">
-                R. Geraldo Rios, 80 - Centro, João Pinheiro - MG, 38770-000<br />
+                Av. João Valentim Pascoal, 87, Sala 106 - Centro, Ipatinga - MG, 35160-003<br />
               </p>
             </a>
 
