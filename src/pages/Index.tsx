@@ -81,7 +81,7 @@ const Index = () => {
 
       
       <footer className="bg-primary py-8 px-4">
-      <div className="container mx-auto max-w-4xl">
+      <div className="container mx-auto max-w-5xl">
         <div className="flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
           
           {/* Logo */}
